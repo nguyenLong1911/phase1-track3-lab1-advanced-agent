@@ -126,5 +126,1717 @@
         "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
       }
     ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "What is the capital city of the country where the Great Wall is located?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall of China is a series of fortifications located in China."
+      },
+      {
+        "title": "China",
+        "text": "Beijing is the capital of the People's Republic of China."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country where the Great Barrier Reef is situated?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is the world's largest coral reef system located in Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a country surrounded by the Indian and Pacific Oceans."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "easy",
+    "question": "What language was used to write the book 'One Hundred Years of Solitude'?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "One Hundred Years of Solitude",
+        "text": "One Hundred Years of Solitude is a novel by Gabriel García Márquez."
+      },
+      {
+        "title": "Gabriel García Márquez",
+        "text": "Gabriel García Márquez was a Colombian author who wrote primarily in Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "hard",
+    "question": "In which city is the museum that houses the Mona Lisa located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Leonardo da Vinci held in the Louvre Museum."
+      },
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre is the world's most-visited museum, located on the Right Bank of the Seine in Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "medium",
+    "question": "What is the currency of the country where the sushi originated?",
+    "gold_answer": "Japanese Yen",
+    "context": [
+      {
+        "title": "Sushi",
+        "text": "Sushi is a traditional Japanese dish of prepared vinegar rice."
+      },
+      {
+        "title": "Japan",
+        "text": "The official currency of Japan is the Japanese Yen."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "easy",
+    "question": "Which scientist developed the theory of relativity and was born in Germany?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Theory of relativity",
+        "text": "The theory of relativity usually encompasses two interrelated theories by Albert Einstein."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a German-born theoretical physicist."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "hard",
+    "question": "What is the tallest mountain in the range where the Matterhorn is located?",
+    "gold_answer": "Mont Blanc",
+    "context": [
+      {
+        "title": "Matterhorn",
+        "text": "The Matterhorn is a mountain of the Alps, straddling the border between Switzerland and Italy."
+      },
+      {
+        "title": "Alps",
+        "text": "Mont Blanc is the highest mountain in the Alps and Western Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "Which company was founded by the man who created the operating system MS-DOS?",
+    "gold_answer": "Microsoft",
+    "context": [
+      {
+        "title": "MS-DOS",
+        "text": "MS-DOS is an operating system for x86-based personal computers mostly developed by Bill Gates."
+      },
+      {
+        "title": "Bill Gates",
+        "text": "Bill Gates is an American business magnate who co-founded Microsoft."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "What is the primary ingredient of the dish that the 'Pizza Margherita' is named after?",
+    "gold_answer": "Tomato",
+    "context": [
+      {
+        "title": "Pizza Margherita",
+        "text": "Pizza Margherita is a typical Neapolitan pizza made with tomatoes, mozzarella, and basil."
+      },
+      {
+        "title": "Tomato",
+        "text": "The tomato is the edible berry of the plant Solanum lycopersicum, a key ingredient in Italian cuisine."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "Which country is home to the city where the 2016 Summer Olympics were held?",
+    "gold_answer": "Brazil",
+    "context": [
+      {
+        "title": "2016 Summer Olympics",
+        "text": "The 2016 Summer Olympics were held in Rio de Janeiro."
+      },
+      {
+        "title": "Rio de Janeiro",
+        "text": "Rio de Janeiro is the second-most populous city in Brazil."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "hard",
+    "question": "What is the name of the desert located in the country where the Pyramids of Giza stand?",
+    "gold_answer": "Sahara",
+    "context": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "The Pyramids of Giza are ancient pyramid structures located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Much of Egypt's surface is part of the Sahara Desert."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "easy",
+    "question": "What university did Stephen Hawking attend for his PhD?",
+    "gold_answer": "University of Cambridge",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a physicist who completed his doctoral work at Cambridge."
+      },
+      {
+        "title": "University of Cambridge",
+        "text": "The University of Cambridge is a research university in Cambridge, United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "medium",
+    "question": "Which island nation is the birthplace of the martial art Karate?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Karate",
+        "text": "Karate is a martial art developed in the Ryukyu Kingdom, which is now part of Okinawa, Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is an island country in East Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "hard",
+    "question": "What is the name of the river that flows through the city where the headquarters of the United Nations is located?",
+    "gold_answer": "East River",
+    "context": [
+      {
+        "title": "United Nations headquarters",
+        "text": "The headquarters of the United Nations is located in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City's Manhattan island is bounded by the Hudson River and the East River."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol of the element discovered by Marie Curie?",
+    "gold_answer": "Po or Ra",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie discovered the elements Polonium and Radium."
+      },
+      {
+        "title": "Polonium",
+        "text": "Polonium is a chemical element with the symbol Po."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "medium",
+    "question": "Which continent contains the country where the Amazon Rainforest is primarily located?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Amazon Rainforest",
+        "text": "The Amazon Rainforest is a moist broadleaf tropical rainforest in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is the largest country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "hard",
+    "question": "Which empire was ruled by the leader who built the Taj Mahal?",
+    "gold_answer": "Mughal Empire",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal was commissioned by Shah Jahan in 1631."
+      },
+      {
+        "title": "Shah Jahan",
+        "text": "Shah Jahan was the fifth Mughal emperor of India."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "medium",
+    "question": "What is the capital of the country that uses the 'Euro' and is home to the Acropolis?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Acropolis",
+        "text": "The Acropolis of Athens is an ancient citadel located in Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Athens is the capital and largest city of Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "easy",
+    "question": "Which band was Paul McCartney a member of in the 1960s?",
+    "gold_answer": "The Beatles",
+    "context": [
+      {
+        "title": "Paul McCartney",
+        "text": "Paul McCartney is an English singer-songwriter who gained worldwide fame with the Beatles."
+      },
+      {
+        "title": "The Beatles",
+        "text": "The Beatles were an English rock band formed in Liverpool in 1960."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "hard",
+    "question": "Which sea is located to the north of the country whose capital is Cairo?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is bordered by the Mediterranean Sea to the north."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "Which country was the birthplace of the military leader who lost the Battle of Waterloo?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Battle of Waterloo",
+        "text": "The Battle of Waterloo was fought in 1815, marking the final defeat of Napoleon Bonaparte."
+      },
+      {
+        "title": "Napoleon Bonaparte",
+        "text": "Napoleon Bonaparte was a French military and political leader who rose to prominence during the French Revolution."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "hard",
+    "question": "In which modern-day country was the city where Julius Caesar was assassinated located?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Assassination of Julius Caesar",
+        "text": "Julius Caesar was assassinated in the Theatre of Pompey in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy and was the center of the Roman Empire."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "medium",
+    "question": "What is the name of the period of social and political upheaval that the 'Guillotine' is famously associated with?",
+    "gold_answer": "French Revolution",
+    "context": [
+      {
+        "title": "Guillotine",
+        "text": "The guillotine became the primary symbol of the Reign of Terror during the French Revolution."
+      },
+      {
+        "title": "French Revolution",
+        "text": "The French Revolution was a period of far-reaching social and political upheaval in France and its colonies."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "easy",
+    "question": "Which country did the inventor of the steam engine, James Watt, come from?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "Steam engine",
+        "text": "James Watt improved Thomas Newcomen's 1712 Newcomen steam engine with his Watt steam engine in 1776."
+      },
+      {
+        "title": "James Watt",
+        "text": "James Watt was a Scottish inventor and mechanical engineer."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "hard",
+    "question": "What was the name of the tutor of the king who conquered the Persian Empire?",
+    "gold_answer": "Aristotle",
+    "context": [
+      {
+        "title": "Persian Empire",
+        "text": "The Achaemenid Persian Empire was conquered by Alexander the Great."
+      },
+      {
+        "title": "Alexander the Great",
+        "text": "Alexander the Great was a king of Macedon who was tutored by the philosopher Aristotle."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "In which English meadow was the document limiting the power of King John signed?",
+    "gold_answer": "Runnymede",
+    "context": [
+      {
+        "title": "King John",
+        "text": "King John of England signed the Magna Carta to appease rebellious barons."
+      },
+      {
+        "title": "Magna Carta",
+        "text": "The Magna Carta was signed in 1215 at Runnymede, near Windsor."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "easy",
+    "question": "Which class of warriors in feudal Japan followed the code of Bushido?",
+    "gold_answer": "Samurai",
+    "context": [
+      {
+        "title": "Bushido",
+        "text": "Bushido is a moral code concerning samurai attitudes, behavior, and lifestyle."
+      },
+      {
+        "title": "Samurai",
+        "text": "Samurai were the hereditary military nobility and officer caste of medieval and early-modern Japan."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "Which group of seafaring people from Scandinavia settled in Iceland and Greenland?",
+    "gold_answer": "Vikings",
+    "context": [
+      {
+        "title": "Scandinavia",
+        "text": "Scandinavia is a subregion in Northern Europe, home to the Vikings."
+      },
+      {
+        "title": "Vikings",
+        "text": "The Vikings were Norse seafarers who colonized areas of Iceland and Greenland."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "hard",
+    "question": "What major trade route connected the Han Dynasty of China with the Roman Empire?",
+    "gold_answer": "Silk Road",
+    "context": [
+      {
+        "title": "Han Dynasty",
+        "text": "The Han Dynasty opened the Silk Road trade route to the west."
+      },
+      {
+        "title": "Silk Road",
+        "text": "The Silk Road was a network of trade routes connecting China and the Far East with the Middle East and Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "medium",
+    "question": "In which modern-day country was the capital of the Aztec Empire located?",
+    "gold_answer": "Mexico",
+    "context": [
+      {
+        "title": "Aztec Empire",
+        "text": "The capital of the Aztec Empire was Tenochtitlan."
+      },
+      {
+        "title": "Tenochtitlan",
+        "text": "Tenochtitlan was a large Mexica city-state in what is now Mexico City, Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "easy",
+    "question": "Who discovered the double helix structure of the molecule that carries genetic information?",
+    "gold_answer": "James Watson and Francis Crick",
+    "context": [
+      {
+        "title": "DNA",
+        "text": "DNA is the molecule that carries genetic instructions in all known living organisms."
+      },
+      {
+        "title": "Double helix",
+        "text": "The double helix structure of DNA was first published in the journal Nature by James Watson and Francis Crick."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "medium",
+    "question": "Which Russian chemist is credited with the creation of the first version of the Periodic Table?",
+    "gold_answer": "Dmitri Mendeleev",
+    "context": [
+      {
+        "title": "Periodic Table",
+        "text": "The Periodic Table is a tabular display of the chemical elements."
+      },
+      {
+        "title": "Dmitri Mendeleev",
+        "text": "Dmitri Mendeleev was a Russian chemist who formulated the Periodic Law and created a farsighted version of the periodic table."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "hard",
+    "question": "What is the speed of the phenomenon that Albert Einstein proved cannot be exceeded by any matter?",
+    "gold_answer": "299,792,458 meters per second",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Einstein's theory of relativity states that nothing can travel faster than the speed of light."
+      },
+      {
+        "title": "Speed of light",
+        "text": "The speed of light in vacuum is exactly 299,792,458 meters per second."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "easy",
+    "question": "Which planet is known as the 'Red Planet' and is home to the Olympus Mons volcano?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Olympus Mons",
+        "text": "Olympus Mons is a very large shield volcano on the planet Mars."
+      },
+      {
+        "title": "Mars",
+        "text": "Mars is the fourth planet from the Sun and is often referred to as the 'Red Planet'."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "What is the name of the supercontinent that existed during the late Paleozoic and early Mesozoic eras?",
+    "gold_answer": "Pangaea",
+    "context": [
+      {
+        "title": "Tectonic plates",
+        "text": "Plate tectonics explains the movement of Earth's lithosphere, which once formed a single supercontinent."
+      },
+      {
+        "title": "Supercontinent",
+        "text": "Pangaea was a supercontinent that assembled from earlier continental units approximately 335 million years ago."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "hard",
+    "question": "Which agency of the U.S. Department of Defense developed the predecessor to the modern Internet?",
+    "gold_answer": "ARPA (or DARPA)",
+    "context": [
+      {
+        "title": "Internet",
+        "text": "The Internet's origins go back to research commissioned by the United States federal government in the 1960s."
+      },
+      {
+        "title": "ARPANET",
+        "text": "The ARPANET was the first wide-area packet-switched network, developed by the Advanced Research Projects Agency (ARPA)."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "Which English mathematician is considered the 'father of theoretical computer science' and broke the Enigma code?",
+    "gold_answer": "Alan Turing",
+    "context": [
+      {
+        "title": "Enigma machine",
+        "text": "The Enigma code was used by the German military during WWII and was broken by a team led by Alan Turing."
+      },
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was an English mathematician and computer scientist who formalised the concepts of algorithm and computation."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "hard",
+    "question": "Which computer, developed by IBM, defeated world chess champion Garry Kasparov in 1997?",
+    "gold_answer": "Deep Blue",
+    "context": [
+      {
+        "title": "Garry Kasparov",
+        "text": "Garry Kasparov is a Russian chess grandmaster who lost a match to a supercomputer in 1997."
+      },
+      {
+        "title": "Deep Blue",
+        "text": "Deep Blue was a chess-playing expert system run on a proprietary hardware developed by IBM."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "easy",
+    "question": "What is the pseudonym of the person or group who created the first cryptocurrency, Bitcoin?",
+    "gold_answer": "Satoshi Nakamoto",
+    "context": [
+      {
+        "title": "Bitcoin",
+        "text": "Bitcoin is a decentralized digital currency created in 2008."
+      },
+      {
+        "title": "Satoshi Nakamoto",
+        "text": "Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "medium",
+    "question": "Which company released the first iPhone in 2007, revolutionizing the smartphone industry?",
+    "gold_answer": "Apple",
+    "context": [
+      {
+        "title": "iPhone",
+        "text": "The iPhone is a line of smartphones designed and marketed by Apple Inc."
+      },
+      {
+        "title": "Apple Inc.",
+        "text": "Apple is an American multinational technology company headquartered in Cupertino, California."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "easy",
+    "question": "In which English town was the playwright of 'Romeo and Juliet' born?",
+    "gold_answer": "Stratford-upon-Avon",
+    "context": [
+      {
+        "title": "Romeo and Juliet",
+        "text": "Romeo and Juliet is a tragedy written by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon, Warwickshire."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional totalitarian state in George Orwell's novel '1984'?",
+    "gold_answer": "Oceania",
+    "context": [
+      {
+        "title": "1984 (novel)",
+        "text": "Nineteen Eighty-Four is a dystopian social science fiction novel by George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "Orwell's novel 1984 is set in Oceania, a world of perpetual war and omnipresent government surveillance."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "hard",
+    "question": "What is the address of the fictional detective created by Arthur Conan Doyle?",
+    "gold_answer": "221B Baker Street",
+    "context": [
+      {
+        "title": "Sherlock Holmes",
+        "text": "Sherlock Holmes is a fictional private detective created by British author Arthur Conan Doyle."
+      },
+      {
+        "title": "Arthur Conan Doyle",
+        "text": "In Conan Doyle's stories, Sherlock Holmes resides at 221B Baker Street in London."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "Which continent is home to the Nile, the world's longest river?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Nile",
+        "text": "The Nile is a major north-flowing river in northeastern Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the world's second-largest and second-most populous continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "hard",
+    "question": "In which country is the highest mountain in Africa, Mount Kilimanjaro, located?",
+    "gold_answer": "Tanzania",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is a dormant volcano in Tanzania."
+      },
+      {
+        "title": "Tanzania",
+        "text": "Tanzania is a country in East Africa within the African Great Lakes region."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "easy",
+    "question": "Which country does the world's largest island, Greenland, belong to?",
+    "gold_answer": "Denmark",
+    "context": [
+      {
+        "title": "Greenland",
+        "text": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans."
+      },
+      {
+        "title": "Kingdom of Denmark",
+        "text": "Greenland is an autonomous territory within the Kingdom of Denmark."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "What is the name of the world's most populous metropolitan area, located in Japan?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "Japan's largest city is Tokyo, which serves as the national capital."
+      },
+      {
+        "title": "Tokyo",
+        "text": "The Greater Tokyo Area is the most populous metropolitan area in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "hard",
+    "question": "In which city did the composer of the 'Ninth Symphony' pass away?",
+    "gold_answer": "Vienna",
+    "context": [
+      {
+        "title": "Ninth Symphony",
+        "text": "The Symphony No. 9 is the final complete symphony by Ludwig van Beethoven."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Beethoven was a German composer who spent most of his life and died in Vienna, Austria."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "What instrument did the jazz musician Louis Armstrong famously play?",
+    "gold_answer": "Trumpet",
+    "context": [
+      {
+        "title": "Louis Armstrong",
+        "text": "Louis Armstrong, nicknamed Satchmo, was an American trumpeter and vocalist."
+      },
+      {
+        "title": "Jazz",
+        "text": "Jazz is a music genre that originated in the African-American communities of New Orleans, where Armstrong grew up."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "easy",
+    "question": "Who was the lead singer of the British rock band Queen?",
+    "gold_answer": "Freddie Mercury",
+    "context": [
+      {
+        "title": "Queen (band)",
+        "text": "Queen are a British rock band formed in London in 1970."
+      },
+      {
+        "title": "Freddie Mercury",
+        "text": "Freddie Mercury was the lead vocalist and songwriter of the rock band Queen."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "Which director helmed the movie that features a character named Jack Sparrow?",
+    "gold_answer": "Gore Verbinski",
+    "context": [
+      {
+        "title": "Jack Sparrow",
+        "text": "Captain Jack Sparrow is the protagonist of the Pirates of the Caribbean film series."
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "text": "The first film in the series was directed by Gore Verbinski."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "hard",
+    "question": "What is the name of the island where the movie 'Jurassic Park' takes place?",
+    "gold_answer": "Isla Nublar",
+    "context": [
+      {
+        "title": "Jurassic Park (film)",
+        "text": "Jurassic Park is a 1993 American science fiction adventure film directed by Steven Spielberg and set on a fictional island."
+      },
+      {
+        "title": "Isla Nublar",
+        "text": "Isla Nublar is the remote island that serves as the setting for the first Jurassic Park film."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "medium",
+    "question": "Which actor played the lead role in the film that won the Academy Award for Best Picture in 1994?",
+    "gold_answer": "Tom Hanks",
+    "context": [
+      {
+        "title": "67th Academy Awards",
+        "text": "At the 1994 Oscars, the film Forrest Gump won the Academy Award for Best Picture."
+      },
+      {
+        "title": "Forrest Gump",
+        "text": "Forrest Gump is a 1994 American comedy-drama film starring Tom Hanks."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "easy",
+    "question": "In which city is the 'Hollywood Sign' located?",
+    "gold_answer": "Los Angeles",
+    "context": [
+      {
+        "title": "Hollywood Sign",
+        "text": "The Hollywood Sign is an American landmark overlooking Hollywood, Los Angeles."
+      },
+      {
+        "title": "Los Angeles",
+        "text": "Los Angeles is the center of the nation's film and television industry."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the 'Lord of the Rings' film trilogy was primarily filmed?",
+    "gold_answer": "Wellington",
+    "context": [
+      {
+        "title": "The Lord of the Rings (film series)",
+        "text": "The trilogy was filmed entirely in Peter Jackson's home country, New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "Wellington is the capital city of New Zealand."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Which animated studio produced the first feature-length computer-animated film?",
+    "gold_answer": "Pixar",
+    "context": [
+      {
+        "title": "Toy Story",
+        "text": "Toy Story was the first entire feature-length computer-animated film, released in 1995."
+      },
+      {
+        "title": "Pixar Animation Studios",
+        "text": "Pixar is an American computer animation studio known for producing Toy Story."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "easy",
+    "question": "What is the name of the wizarding school attended by Harry Potter?",
+    "gold_answer": "Hogwarts",
+    "context": [
+      {
+        "title": "Harry Potter",
+        "text": "Harry Potter is a series of seven fantasy novels which follow the lives of young wizards at a boarding school."
+      },
+      {
+        "title": "Hogwarts",
+        "text": "Hogwarts School of Witchcraft and Wizardry is the primary setting for the Harry Potter series."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "hard",
+    "question": "Which 1975 film, directed by Steven Spielberg, is credited with creating the 'summer blockbuster'?",
+    "gold_answer": "Jaws",
+    "context": [
+      {
+        "title": "Summer blockbuster",
+        "text": "The release of Jaws in 1975 is regarded as the watershed moment in the establishment of the modern Hollywood business model."
+      },
+      {
+        "title": "Jaws (film)",
+        "text": "Jaws is a 1975 American thriller film directed by Steven Spielberg."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "Who played the character of 'The Joker' in the 2008 film 'The Dark Knight'?",
+    "gold_answer": "Heath Ledger",
+    "context": [
+      {
+        "title": "The Dark Knight (film)",
+        "text": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan."
+      },
+      {
+        "title": "Heath Ledger",
+        "text": "Heath Ledger posthumously won the Academy Award for Best Supporting Actor for his role as the Joker in The Dark Knight."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "easy",
+    "question": "What is the name of the droid that accompanies Luke Skywalker in Star Wars?",
+    "gold_answer": "R2-D2",
+    "context": [
+      {
+        "title": "Luke Skywalker",
+        "text": "Luke Skywalker is the main protagonist of the original Star Wars film trilogy."
+      },
+      {
+        "title": "R2-D2",
+        "text": "R2-D2 is a robot character in the Star Wars franchise, often seen with Luke Skywalker."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "medium",
+    "question": "Which canal connects the Atlantic Ocean to the Pacific Ocean?",
+    "gold_answer": "Panama Canal",
+    "context": [
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic is the world's second-largest ocean, separated from the Pacific by the Panama Canal."
+      },
+      {
+        "title": "Panama Canal",
+        "text": "The Panama Canal is an artificial 82 km waterway in Panama that connects the Atlantic and Pacific."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "hard",
+    "question": "What is the name of the deepest point in the Earth's oceans?",
+    "gold_answer": "Challenger Deep",
+    "context": [
+      {
+        "title": "Mariana Trench",
+        "text": "The Mariana Trench is the deepest part of the world's oceans."
+      },
+      {
+        "title": "Challenger Deep",
+        "text": "The Challenger Deep is the deepest known point in the Earth's hydrosphere, located in the Mariana Trench."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "easy",
+    "question": "What is the most populous country in the world as of 2023?",
+    "gold_answer": "India",
+    "context": [
+      {
+        "title": "India",
+        "text": "India is a country in South Asia and surpassed China in population in 2023."
+      },
+      {
+        "title": "Population",
+        "text": "As of mid-2023, India is estimated to be the world's most populous nation."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "medium",
+    "question": "In which country is the world's largest waterfall, Angel Falls, located?",
+    "gold_answer": "Venezuela",
+    "context": [
+      {
+        "title": "Angel Falls",
+        "text": "Angel Falls is the world's highest uninterrupted waterfall."
+      },
+      {
+        "title": "Venezuela",
+        "text": "Angel Falls is located in the Canaima National Park in the Bolivar State of Venezuela."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "Which sea is the lowest point on the Earth's land surface?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Elevation",
+        "text": "The lowest land elevation on Earth is located on the shores of a salt lake in the Middle East."
+      },
+      {
+        "title": "Dead Sea",
+        "text": "The Dead Sea's shores are 430.5 meters below sea level, the Earth's lowest elevation on land."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "What is the largest desert in the world that is not a polar desert?",
+    "gold_answer": "Sahara",
+    "context": [
+      {
+        "title": "Desert",
+        "text": "Deserts are classified by precipitation; the largest deserts are the Antarctic and Arctic deserts."
+      },
+      {
+        "title": "Sahara",
+        "text": "The Sahara is the largest hot desert in the world and the third largest desert overall."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "Which river is the longest in South America?",
+    "gold_answer": "Amazon River",
+    "context": [
+      {
+        "title": "South America",
+        "text": "South America is home to the Amazon River, which has the largest discharge volume in the world."
+      },
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River is generally considered the longest or second-longest river in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "hard",
+    "question": "What is the name of the bay that has the highest tidal range in the world?",
+    "gold_answer": "Bay of Fundy",
+    "context": [
+      {
+        "title": "Tides",
+        "text": "Tides are the rise and fall of sea levels; the most extreme tides occur in Canada."
+      },
+      {
+        "title": "Bay of Fundy",
+        "text": "The Bay of Fundy, located between New Brunswick and Nova Scotia, is known for having the highest tides on Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "medium",
+    "question": "Which European city is built on a series of 118 small islands separated by canals?",
+    "gold_answer": "Venice",
+    "context": [
+      {
+        "title": "Venice",
+        "text": "Venice is a city in northeastern Italy and the capital of the Veneto region."
+      },
+      {
+        "title": "Canals of Venice",
+        "text": "The city of Venice is situated across a group of 118 small islands separated by canals."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "easy",
+    "question": "What is the smallest continent in the world by land area?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Continents",
+        "text": "Earth has seven main continents, ranging in size from Asia to the smallest one."
+      },
+      {
+        "title": "Australia (continent)",
+        "text": "Australia is the smallest continent and one of the largest countries on Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "medium",
+    "question": "What is the largest living species of lizard on Earth?",
+    "gold_answer": "Komodo dragon",
+    "context": [
+      {
+        "title": "Lizard",
+        "text": "Lizards are a widespread group of squamate reptiles; the largest species is found in Indonesia."
+      },
+      {
+        "title": "Komodo dragon",
+        "text": "The Komodo dragon is a member of the monitor lizard family and is the largest living lizard species."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "hard",
+    "question": "Which mammal is the only one capable of true flight?",
+    "gold_answer": "Bat",
+    "context": [
+      {
+        "title": "Flight",
+        "text": "While some mammals can glide, only one order has evolved true powered flight."
+      },
+      {
+        "title": "Bat",
+        "text": "Bats are mammals of the order Chiroptera; their forelimbs form webbed wings, making them the only mammals capable of flight."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "medium",
+    "question": "What is the fastest land animal in the world?",
+    "gold_answer": "Cheetah",
+    "context": [
+      {
+        "title": "Cheetah",
+        "text": "The cheetah is a large cat native to Africa and central Iran."
+      },
+      {
+        "title": "Animal speeds",
+        "text": "The cheetah can run at speeds of 80 to 128 km/h, making it the fastest land animal."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "easy",
+    "question": "Which bird is the largest living species and cannot fly?",
+    "gold_answer": "Ostrich",
+    "context": [
+      {
+        "title": "Flightless bird",
+        "text": "Several bird species have lost the ability to fly, including the African ostrich."
+      },
+      {
+        "title": "Ostrich",
+        "text": "The ostrich is the largest and heaviest living bird species."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "hard",
+    "question": "What is the name of the substance that makes up the horns of a rhinoceros?",
+    "gold_answer": "Keratin",
+    "context": [
+      {
+        "title": "Rhinoceros horn",
+        "text": "Rhinoceros horns are unique among mammals as they do not have a bony core."
+      },
+      {
+        "title": "Keratin",
+        "text": "Keratin is the same protein that forms human hair and fingernails, and it is the primary component of rhino horns."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "medium",
+    "question": "Which ocean is the natural habitat of the blue whale, the largest animal ever known?",
+    "gold_answer": "All major oceans",
+    "context": [
+      {
+        "title": "Blue whale",
+        "text": "The blue whale is a marine mammal and the largest animal to have ever existed."
+      },
+      {
+        "title": "Habitat of blue whales",
+        "text": "Blue whales are found in all of the Earth's major oceans, from the Arctic to the Antarctic."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "easy",
+    "question": "What is the collective noun for a group of lions?",
+    "gold_answer": "Pride",
+    "context": [
+      {
+        "title": "Lion",
+        "text": "Lions are social cats that live in family groups."
+      },
+      {
+        "title": "Pride (lions)",
+        "text": "A social group of lions is called a pride."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "medium",
+    "question": "Which organ do fish use to extract oxygen from water?",
+    "gold_answer": "Gills",
+    "context": [
+      {
+        "title": "Fish",
+        "text": "Fish are aquatic animals that breathe through specialized structures."
+      },
+      {
+        "title": "Gills",
+        "text": "Gills are respiratory organs that allow fish to absorb dissolved oxygen from the water."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "hard",
+    "question": "What is the only species of bear found in the Southern Hemisphere?",
+    "gold_answer": "Spectacled bear (or Andean bear)",
+    "context": [
+      {
+        "title": "Bear",
+        "text": "Bears are carnivoran mammals of the family Ursidae, mostly found in the Northern Hemisphere."
+      },
+      {
+        "title": "Spectacled bear",
+        "text": "The spectacled bear, native to the Andes Mountains, is the only extant bear species native to South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "easy",
+    "question": "Which insect is known for living in highly organized colonies and producing honey?",
+    "gold_answer": "Honey bee",
+    "context": [
+      {
+        "title": "Honey",
+        "text": "Honey is a sweet, viscous food substance produced by bees."
+      },
+      {
+        "title": "Honey bee",
+        "text": "Honey bees are social insects that live in hives and collect nectar to make honey."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "medium",
+    "question": "Which tennis tournament is played on grass and is the oldest in the world?",
+    "gold_answer": "Wimbledon",
+    "context": [
+      {
+        "title": "Tennis",
+        "text": "Tennis is a racket sport; the four major tournaments are called Grand Slams."
+      },
+      {
+        "title": "Wimbledon Championships",
+        "text": "Wimbledon is the oldest tennis tournament in the world and the only Grand Slam played on grass."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "hard",
+    "question": "Which country has won the most FIFA World Cup titles in history?",
+    "gold_answer": "Brazil",
+    "context": [
+      {
+        "title": "FIFA World Cup",
+        "text": "The FIFA World Cup is the most prestigious association football tournament in the world."
+      },
+      {
+        "title": "Brazil national football team",
+        "text": "Brazil is the most successful national team in the World Cup, having won five titles."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "medium",
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Olympic Games",
+        "text": "The modern Olympic Games were inspired by the ancient Greek games and began in the late 19th century."
+      },
+      {
+        "title": "1896 Summer Olympics",
+        "text": "The 1896 Summer Olympics, officially known as the Games of the I Olympiad, were held in Athens, Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "easy",
+    "question": "How many players are on a standard basketball team on the court at one time?",
+    "gold_answer": "Five",
+    "context": [
+      {
+        "title": "Basketball",
+        "text": "Basketball is a team sport played on a rectangular court."
+      },
+      {
+        "title": "Basketball rules",
+        "text": "In a standard game of basketball, two teams of five players each compete."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "hard",
+    "question": "Which basketball player is the all-time leading scorer in NBA history?",
+    "gold_answer": "LeBron James",
+    "context": [
+      {
+        "title": "NBA",
+        "text": "The National Basketball Association (NBA) is the premier professional basketball league in the world."
+      },
+      {
+        "title": "LeBron James",
+        "text": "In 2023, LeBron James surpassed Kareem Abdul-Jabbar to become the NBA's all-time leading scorer."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "medium",
+    "question": "What is the name of the trophy awarded to the winner of the NHL championship?",
+    "gold_answer": "Stanley Cup",
+    "context": [
+      {
+        "title": "NHL",
+        "text": "The National Hockey League is a professional ice hockey league in North America."
+      },
+      {
+        "title": "Stanley Cup",
+        "text": "The Stanley Cup is the championship trophy awarded annually to the NHL playoff winner."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "easy",
+    "question": "Which sport uses terms like 'love', 'deuce', and 'advantage'?",
+    "gold_answer": "Tennis",
+    "context": [
+      {
+        "title": "Tennis scoring",
+        "text": "Tennis uses a unique scoring system with terms like love for zero."
+      },
+      {
+        "title": "Deuce",
+        "text": "In tennis, a score of 40-40 is known as deuce."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "hard",
+    "question": "In golf, what is the term for scoring three strokes under par on a single hole?",
+    "gold_answer": "Albatross (or Double Eagle)",
+    "context": [
+      {
+        "title": "Golf scoring",
+        "text": "Golfers use bird-related names for scores relative to par."
+      },
+      {
+        "title": "Albatross (golf)",
+        "text": "An albatross, also known as a double eagle, is a score of three under par."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "medium",
+    "question": "Which country is the birthplace of the martial art Taekwondo?",
+    "gold_answer": "South Korea",
+    "context": [
+      {
+        "title": "Taekwondo",
+        "text": "Taekwondo is a Korean martial art involving punching and kicking techniques."
+      },
+      {
+        "title": "South Korea",
+        "text": "Taekwondo was developed during the 1940s and 1950s by various martial artists in Korea."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "easy",
+    "question": "What is the primary color of the jersey worn by the leader in the Tour de France?",
+    "gold_answer": "Yellow",
+    "context": [
+      {
+        "title": "Tour de France",
+        "text": "The Tour de France is an annual men's multiple-stage bicycle race primarily held in France."
+      },
+      {
+        "title": "Yellow jersey",
+        "text": "The maillot jaune, or yellow jersey, is worn by the leader of the general classification."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "hard",
+    "question": "What is the name of the mission that landed the first humans on the Moon?",
+    "gold_answer": "Apollo 11",
+    "context": [
+      {
+        "title": "Moon landing",
+        "text": "The first human landing on the Moon occurred on July 20, 1969."
+      },
+      {
+        "title": "Apollo 11",
+        "text": "Apollo 11 was the spaceflight that landed Neil Armstrong and Buzz Aldrin on the lunar surface."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "medium",
+    "question": "Which planet in our solar system is famous for its prominent ring system?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Planetary rings",
+        "text": "Several planets have rings, but the most extensive system belongs to the sixth planet from the Sun."
+      },
+      {
+        "title": "Saturn",
+        "text": "Saturn is a gas giant known for its bright and complex rings made of ice and dust."
+      }
+    ]
+  },
+  {
+    "qid": "hp101",
+    "difficulty": "hard",
+    "question": "What is the name of the first artificial satellite launched into Earth orbit?",
+    "gold_answer": "Sputnik 1",
+    "context": [
+      {
+        "title": "Space Race",
+        "text": "The Space Race began with the successful launch of a satellite by the Soviet Union in 1957."
+      },
+      {
+        "title": "Sputnik 1",
+        "text": "Sputnik 1 was the first artificial Earth satellite, launched into an elliptical low Earth orbit."
+      }
+    ]
+  },
+  {
+    "qid": "hp102",
+    "difficulty": "medium",
+    "question": "Which force keeps the planets in orbit around the Sun?",
+    "gold_answer": "Gravity",
+    "context": [
+      {
+        "title": "Orbit",
+        "text": "An orbit is the gravitationally curved trajectory of an object around a point in space."
+      },
+      {
+        "title": "Gravity",
+        "text": "Gravity is the fundamental interaction which causes mutual attraction between all things with mass, including planets and the Sun."
+      }
+    ]
+  },
+  {
+    "qid": "hp103",
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "The Solar System consists of the Sun and the objects that orbit it, including eight planets."
+      },
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is the fifth planet from the Sun and the largest in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp104",
+    "difficulty": "hard",
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "gold_answer": "Milky Way",
+    "context": [
+      {
+        "title": "Galaxy",
+        "text": "A galaxy is a gravitationally bound system of stars, stellar remnants, and interstellar gas."
+      },
+      {
+        "title": "Milky Way",
+        "text": "The Milky Way is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp105",
+    "difficulty": "medium",
+    "question": "Which space agency developed the James Webb Space Telescope?",
+    "gold_answer": "NASA",
+    "context": [
+      {
+        "title": "James Webb Space Telescope",
+        "text": "The JWST is a space telescope designed to conduct infrared astronomy, succeeding the Hubble Space Telescope."
+      },
+      {
+        "title": "NASA",
+        "text": "NASA led the development of the JWST in collaboration with the ESA and the CSA."
+      }
+    ]
+  },
+  {
+    "qid": "hp106",
+    "difficulty": "easy",
+    "question": "What is the name of the red supergiant star that is part of the constellation Orion?",
+    "gold_answer": "Betelgeuse",
+    "context": [
+      {
+        "title": "Orion (constellation)",
+        "text": "Orion is a prominent constellation located on the celestial equator and visible throughout the world."
+      },
+      {
+        "title": "Betelgeuse",
+        "text": "Betelgeuse is usually the tenth-brightest star in the night sky and the second-brightest in the constellation of Orion."
+      }
+    ]
+  },
+  {
+    "qid": "hp107",
+    "difficulty": "hard",
+    "question": "What is the term for a star that has exhausted its nuclear fuel and collapsed into a very dense state?",
+    "gold_answer": "White dwarf (or Neutron star/Black hole)",
+    "context": [
+      {
+        "title": "Stellar evolution",
+        "text": "The final stages of a star's life depend on its initial mass."
+      },
+      {
+        "title": "White dwarf",
+        "text": "A white dwarf is what stars like the Sun become after they have exhausted their nuclear fuel."
+      }
+    ]
+  },
+  {
+    "qid": "hp108",
+    "difficulty": "medium",
+    "question": "Which unit is used to measure the distance between stars and galaxies?",
+    "gold_answer": "Light-year",
+    "context": [
+      {
+        "title": "Astronomy",
+        "text": "Distances in space are so vast that conventional units like kilometers are impractical."
+      },
+      {
+        "title": "Light-year",
+        "text": "A light-year is a unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometers."
+      }
+    ]
+  },
+  {
+    "qid": "hp109",
+    "difficulty": "hard",
+    "question": "Which Nobel Prize-winning scientist discovered the effect that explains why the sky is blue and worked at the university where the 'Raman effect' was named?",
+    "gold_answer": "C. V. Raman",
+    "context": [
+      {
+        "title": "Raman scattering",
+        "text": "The Raman effect is the inelastic scattering of a photon, discovered by C. V. Raman."
+      },
+      {
+        "title": "C. V. Raman",
+        "text": "Sir Chandrasekhara Venkata Raman was an Indian physicist who carried out his ground-breaking work in the field of light scattering at the University of Calcutta."
+      }
+    ]
+  },
+  {
+    "qid": "hp110",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient city-state that defeated the Persians at the Battle of Marathon and is the capital of a country that uses the Euro?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Battle of Marathon",
+        "text": "The Battle of Marathon took place in 490 BC, during the first Persian invasion of Greece, where the citizens of Athens defeated the Persians."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is a founding member of the United Nations and joined the Eurozone in 2001; its capital is Athens."
+      }
+    ]
+  },
+  {
+    "qid": "hp111",
+    "difficulty": "hard",
+    "question": "Which tectonic plate's movement created the mountain range containing the highest peak in the country whose capital is Quito?",
+    "gold_answer": "Nazca Plate",
+    "context": [
+      {
+        "title": "Quito",
+        "text": "Quito is the capital of Ecuador, a country through which the Andes mountains run."
+      },
+      {
+        "title": "Andes",
+        "text": "The Andes were formed by the subduction of the Nazca Plate beneath the South American Plate."
+      }
+    ]
+  },
+  {
+    "qid": "hp112",
+    "difficulty": "hard",
+    "question": "What is the name of the treaty that ended the war involving the 'Sun King' and redefined the borders of Europe in 1713?",
+    "gold_answer": "Treaty of Utrecht",
+    "context": [
+      {
+        "title": "Louis XIV",
+        "text": "Louis XIV, known as the Sun King, led France during the War of the Spanish Succession."
+      },
+      {
+        "title": "War of the Spanish Succession",
+        "text": "The war was concluded by the Peace of Utrecht, a series of individual peace treaties signed in the Dutch city of Utrecht in 1713."
+      }
+    ]
+  },
+  {
+    "qid": "hp113",
+    "difficulty": "hard",
+    "question": "Which enzyme is responsible for 'unzipping' the double helix during the process of replication in the molecule discovered by Watson and Crick?",
+    "gold_answer": "Helicase",
+    "context": [
+      {
+        "title": "DNA replication",
+        "text": "In molecular biology, DNA replication is the biological process of producing two identical replicas of DNA from one original DNA molecule."
+      },
+      {
+        "title": "Helicase",
+        "text": "Helicases are a class of enzymes vital to all organisms; their main function is to unpackage an organism's genes by unzipping the DNA double helix."
+      }
+    ]
+  },
+  {
+    "qid": "hp114",
+    "difficulty": "hard",
+    "question": "In which city is the building located that was designed by the architect who also created the glass pyramid at the Louvre?",
+    "gold_answer": "Hong Kong (for Bank of China Tower) or Washington D.C. (for National Gallery)",
+    "context": [
+      {
+        "title": "I. M. Pei",
+        "text": "Ieoh Ming Pei was a Chinese-American architect who designed the Louvre Pyramid and the Bank of China Tower."
+      },
+      {
+        "title": "Bank of China Tower",
+        "text": "The Bank of China Tower is one of the most recognizable skyscrapers in central Hong Kong."
+      }
+    ]
+  },
+  {
+    "qid": "hp115",
+    "difficulty": "hard",
+    "question": "What is the primary gas found in the atmosphere of the largest planet in our solar system?",
+    "gold_answer": "Hydrogen",
+    "context": [
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is the largest planet in the Solar System and is a gas giant."
+      },
+      {
+        "title": "Atmosphere of Jupiter",
+        "text": "The atmosphere of Jupiter is the largest planetary atmosphere in the Solar System, made mostly of molecular hydrogen and helium."
+      }
+    ]
   }
 ]
