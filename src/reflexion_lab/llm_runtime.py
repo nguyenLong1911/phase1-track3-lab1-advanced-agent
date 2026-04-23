@@ -2,9 +2,9 @@
 llm_runtime.py — Real LLM runtime for Reflexion Agent Lab.
 
 Uses Ollama local server (http://localhost:11434) to power Actor, Evaluator, and Reflector.
-Default model: qwen2.5:2b (configurable via OLLAMA_MODEL env var).
+Default model: qwen3.5:2b (configurable via OLLAMA_MODEL env var).
 Token counts are read from Ollama's actual response metadata (eval_count + prompt_eval_count).
-Falls back to context-extraction heuristics if Ollama server is not reachable.
+Heuristic fallback is opt-in via ALLOW_HEURISTIC_FALLBACK=1 for offline grading only.
 """
 from __future__ import annotations
 
@@ -26,6 +26,7 @@ from .utils import normalize_answer
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 OLLAMA_MODEL    = os.getenv("OLLAMA_MODEL", "qwen3.5:2b")
 OLLAMA_TIMEOUT  = int(os.getenv("OLLAMA_TIMEOUT", "60"))  # seconds per request
+ALLOW_HEURISTIC_FALLBACK = os.getenv("ALLOW_HEURISTIC_FALLBACK", "0") == "1"
 
 
 def _ollama_available() -> bool:
@@ -40,8 +41,13 @@ def _ollama_available() -> bool:
 _USE_OLLAMA: bool = _ollama_available()
 if _USE_OLLAMA:
     print(f"[llm_runtime] Ollama detected at {OLLAMA_BASE_URL} — using model '{OLLAMA_MODEL}'")
-else:
+elif ALLOW_HEURISTIC_FALLBACK:
     print("[llm_runtime] Ollama not reachable — using heuristic fallback")
+else:
+    raise RuntimeError(
+        "Ollama local server is not reachable. Start Ollama or set ALLOW_HEURISTIC_FALLBACK=1 "
+        "for offline grading only."
+    )
 
 
 # ---------------------------------------------------------------------------
